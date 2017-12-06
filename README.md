@@ -3,9 +3,6 @@
 Given the Data in this folder, write html, css and javascript to present the
 information specifically for mobile web browsers.
 
-The data comes from a [timeline graphic published on vox.com](https://www.vox.com/world/2017/11/27/16670950/trump-russia-timeline).
-Your solution *will not* replicate the original piece.
-
 ### Whats in here?
 
 Given in this repo is a JSON file with content, a basic ERB template file and
@@ -37,7 +34,6 @@ instructions on how to view the final output, if necessary
 *Do not:*
 
 - Take longer than X hours to make it work
-- Copy the [original piece](https://www.vox.com/world/2017/11/27/16670950/trump-russia-timeline)
 - Fork this repo
 - Publish your solution in a public place
 
