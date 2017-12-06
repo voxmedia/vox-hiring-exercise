@@ -3,6 +3,8 @@
 Given the Data in this folder, write html, css and javascript to create a
 mobile slideshow experience.
 
+The data included was used in the story [A visual guide to the key events in the Trump-Russia scandal](https://www.vox.com/world/2017/11/27/16670950/trump-russia-timeline).
+
 **DO NOT FORK THIS REPO**
 
 ### Whats in here?
@@ -22,7 +24,7 @@ and a file `index.html` will be produced.
 
 You must:
 
-- Display all the content in the `slides.json` file.
+- Display all the content in the `slides.json` file
 - Make it work in the mobile browser of your choice
 - Have a consistent design
 - Not take longer than a couple hours to make it work
@@ -33,6 +35,7 @@ instructions on how to view the final output, if necessary
 
 Do not:
 
+- Copy the [original piece](https://www.vox.com/world/2017/11/27/16670950/trump-russia-timeline)
 - Fork this repo
 - Publish your solution in a public place
 - Spend too much time on this!
