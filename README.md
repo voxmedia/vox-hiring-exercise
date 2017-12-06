@@ -5,8 +5,6 @@ mobile slideshow experience.
 
 The data included was used in the story [A visual guide to the key events in the Trump-Russia scandal](https://www.vox.com/world/2017/11/27/16670950/trump-russia-timeline).
 
-**DO NOT FORK THIS REPO**
-
 ### Whats in here?
 
 Given in this repo is a JSON file with content, a basic ERB template file and
@@ -22,7 +20,7 @@ and a file `index.html` will be produced.
 
 ### Requirements
 
-You must:
+*You must:*
 
 - Display all the content in the `slides.json` file
 - Make it work in the mobile browser of your choice
@@ -33,14 +31,14 @@ instructions on how to view the final output, if necessary
 - Be prepared to present and explain your work and decisions
 - Submit your solution as a zip file or something via email
 
-Do not:
+*Do not:*
 
 - Copy the [original piece](https://www.vox.com/world/2017/11/27/16670950/trump-russia-timeline)
 - Fork this repo
 - Publish your solution in a public place
 - Spend too much time on this!
 
-You can, if you wish:
+*You can, if you wish:*
 
 - Ask questions about any aspect of this code or requirements
 - Change the build script and templates
@@ -48,7 +46,7 @@ You can, if you wish:
 - Use other peoples code (as long as licenses allow it!)
 - Structure files however you like
 
-Do not worry about:
+*Do not worry about:*
 
 - Adhering to Vox style in fonts, colors, typography
 - Making it work for large screens/desktop browsers, or other browsers/devices
