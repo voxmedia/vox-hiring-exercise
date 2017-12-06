@@ -1,9 +1,10 @@
 ## Front-end exercise for applicants
 
-Given the Data in this folder, write html, css and javascript to create a
-mobile slideshow experience.
+Given the Data in this folder, write html, css and javascript to present the
+information specifically for mobile web browsers.
 
-The data included was used in the story [A visual guide to the key events in the Trump-Russia scandal](https://www.vox.com/world/2017/11/27/16670950/trump-russia-timeline).
+The data comes from a [timeline graphic published on vox.com](https://www.vox.com/world/2017/11/27/16670950/trump-russia-timeline).
+Your solution *will not* replicate the original piece.
 
 ### Whats in here?
 
@@ -22,10 +23,12 @@ and a file `index.html` will be produced.
 
 *You must:*
 
-- Display all the content in the `slides.json` file
+- Display and style all the content in the `slides.json` file
+- Display the content in order
+- Each entry in the data is displayed one at a time, as a "slide" or "card"
+- The user will swipe from one entry to the next
 - Make it work in the mobile browser of your choice
 - Have a consistent design
-- Not take longer than a couple hours to make it work
 - Provide all the code you used to create your final product, including
 instructions on how to view the final output, if necessary
 - Be prepared to present and explain your work and decisions
@@ -33,10 +36,10 @@ instructions on how to view the final output, if necessary
 
 *Do not:*
 
+- Take longer than X hours to make it work
 - Copy the [original piece](https://www.vox.com/world/2017/11/27/16670950/trump-russia-timeline)
 - Fork this repo
 - Publish your solution in a public place
-- Spend too much time on this!
 
 *You can, if you wish:*
 
