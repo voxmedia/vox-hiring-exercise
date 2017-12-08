@@ -1,4 +1,4 @@
-## Front-end exercise for applicants
+## Front-end exercise
 
 Given the Data in this folder, write html, css and javascript to present the
 information specifically for mobile web browsers.
