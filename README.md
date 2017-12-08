@@ -33,7 +33,7 @@ instructions on how to view the final output, if necessary
 
 *Do not:*
 
-- Take longer than X hours to make it work
+- Take longer than 2-3 hours to make it work
 - Fork this repo
 - Publish your solution in a public place
 
