@@ -42,7 +42,7 @@ instructions on how to view the final output, if necessary
 - Ask questions about any aspect of this code or requirements
 - Change the build script and templates
 - Use different tools than the included ruby build script and template (be mindful of your time)
-- Use other peoples code (as long as licenses allow it!)
+- Use other people's code (as long as licenses allow it!)
 - Structure files however you like
 
 *Do not worry about:*
